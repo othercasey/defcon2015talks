@@ -1,0 +1,12 @@
+.speaker {
+	font-weight: bold;
+}
+
+.speakerBio {
+	font-style: italic;
+}
+
+h2 {
+	font-size: 150%;
+	text-decoration: underline;
+}
